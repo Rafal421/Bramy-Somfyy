@@ -423,4 +423,14 @@ h3{
   .napendy{
     width: 90%;
   }
+
+  .inside_mid{
+    width: 80%;
+  }
+
+  .lokalizacja iframe{
+    width: 90%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
 }
