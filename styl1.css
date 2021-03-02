@@ -383,8 +383,8 @@ h3{
     margin:auto;
   }
   .logo img{
-    height: auto;
-    width: auto;
+    height: 100%;
+    width: 100%;
 
   }
 
@@ -410,5 +410,17 @@ h3{
     text-decoration: none;
     direction: none;
     color: white;
+  }
+
+  .inne{
+    width: 100%;
+  }
+
+  .FILMIK iframe{
+    height: 100%;
+    width: 100%;
+  }
+  .napendy{
+    width: 90%;
   }
 }
