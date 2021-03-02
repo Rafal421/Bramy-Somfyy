@@ -408,5 +408,7 @@ h3{
 
   .kontakt{
     text-decoration: none;
+    direction: none;
+    color: white;
   }
 }
